@@ -542,6 +542,13 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+
+
+.interlude{
+  text-align: justify;
+  
+}
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
