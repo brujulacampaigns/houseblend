@@ -545,8 +545,9 @@ pre code {
 
 
 .interlude{
-  text-align: justify;
-  
+  text-align: center;
+  padding: 2rem;
+
 }
 
 @media (min-width: 576px) {
