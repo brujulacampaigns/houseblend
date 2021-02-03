@@ -629,6 +629,12 @@ border-color: transparent;
 
 }
 
+
+#valentingif{
+  width: 100%;
+  height: auto;
+}
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
